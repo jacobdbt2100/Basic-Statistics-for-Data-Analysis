@@ -1,20 +1,20 @@
 # Basic Statistics for Data Analysis
 
 1.	Descriptive Statistics
-  - Mean, median, mode
-  - Variance and standard deviation
-  - Percentiles and quartiles
-  - Data visualization
+    - Mean, median, mode
+    - Variance and standard deviation
+    - Percentiles and quartiles
+    - Data visualization
 2.	Inferential Statistics
-  - Confidence intervals
-  - Hypothesis testing (A/B testing, t-tests, chi-square tests, z-tests, etc.)
-  - Correlation and covariance
+    - Confidence intervals
+    - Hypothesis testing (A/B testing, t-tests, chi-square tests, z-tests, etc.)
+    - Correlation and covariance
 3.	Linear Regression
 4.	Classification
 5.	Probability Basics
-  - Basic probability rules
-  - Distributions (normal, uniform, binomial)
-  - Sampling techniques
+    - Basic probability rules
+    - Distributions (normal, uniform, binomial)
+    - Sampling techniques
 
 **Histogram**: a graphical representation of the distribution of a dataset showing the frequency of data points in specified intervals.
 
